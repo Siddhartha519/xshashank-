@@ -1,0 +1,190 @@
+*{margin:0;
+  padding:0;
+  font-family: Century Gothic;
+  }
+body 
+    {
+    background-color:#2B2B2B;
+    }
+.header1
+    {
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(backgroundimage.jpg);
+    height:100vh;
+    background-size:cover;
+    background-position: center;
+    }
+.header2{background-color: white;}
+ul  {float:right;
+     list-style-type:none;
+     }
+ul li{
+      display:inline-block;}
+ul li a { 
+         text-decoration: none;
+         color: #fff;
+         padding:5px 20px;
+         border:1px solid black;
+         transition: 0.6s ease;
+}
+ul li a:hover {
+               background-color: #000000;
+               color:#fff;   
+         }
+hr   
+    {   position : absolute;
+        top:1500px;
+        margin-left: 200px;
+        border-color:grey;
+        width: 70%;
+    }
+
+.project_heading { font-size:50px;
+                   position : absolute;
+                   top:1525px;
+                   left:650px;
+                              }
+
+.circular {
+            border-radius:100%
+            }
+   
+div
+    {
+    background-color:red;
+   
+    }
+.front_heading
+    { color:white;
+     }
+.My_Name
+    { color: #FF4C29 
+    }
+div
+    {background-color:#171010;}
+
+p
+    { text-align: left;
+     color: white;
+     }
+.heading1{
+   text-align:left;
+   color:#dfdfdf;
+   font-weight:normal;
+}
+
+span{color:white;
+      font-weight:bold;
+}
+.ul2 li{ margin-left: 200px;}
+
+.button a { text-decoration: none;
+            color: white;
+            padding:5px 20px;
+            border:1px solid black;}
+.button a:hover{
+               background-color: #000000;
+               color:#fff;}
+.div2{
+          background-color:white;
+          height: 1110px;
+}
+.first_heading {
+          position:relative;
+          top: 30px;
+          text-align: center;
+          font-size:50px;
+}
+.div2 p { font-size: 30px;
+          text-indent: 3px;
+          color: black;
+          position: absolute;
+          left:190px;
+          top: 850px;
+             }
+.bell_image {   height: 150px;
+                width: 150px;
+                position: absolute;
+                top:1070px;
+                left:100px;
+              
+               }
+.mail_image { height: 150px;
+              width: 150px;
+              position: absolute;
+              top:1070px;
+              left:555px;}
+
+.telephone_image { height: 80px;
+              width: 80px;
+              position: absolute;
+              top:1105px;
+              left:1095px;  }
+
+.consecteture { height: 200px;
+                width: 200px;
+                position: absolute;
+                top:1193px;
+                left:120px;}
+                  
+.lorem{      height: 55px;
+              width: 20px;
+              position: absolute;
+              top:1193px;
+              left:1110px;}
+
+.dolorsit{    height: 110px;
+              width: 110px;
+              position: absolute;
+              top:1193px;
+              left:585px;}
+
+
+.bell_text { display:block;
+             position: absolute;
+             top: 1000px;
+               }
+
+.con_btn { text-decoration: none;
+           color: black;
+           padding:1.5px 9px;
+           border:1px solid black;
+           position: absolute;
+           top:1412px; 
+           left: 120px; }
+
+
+
+.con_btn:hover{
+               background-color: #3B185F;
+               color:#fff;}
+
+.dolor_btn { text-decoration: none;
+             color: black;
+             padding:1.5px 9px;
+             border:1px solid black;
+             position: absolute;
+             top:1412px; 
+             left: 580px; }
+.dolor_btn:hover{
+               background-color: #3B185F;
+               color:#fff;}
+.lorem_btn { text-decoration: none;
+           color: black;
+           padding:1.5px 9px;
+           border:1px solid black;
+           position: absolute;
+           top:1420px; 
+           left: 1115px; }
+.div3{
+          background-color:white;
+          height: 2000px;
+}
+
+.project-list { height: 500px;
+                weidth: 1200px;
+                display: inline-block;
+                position: absolute;
+                left:  500px;
+                 right:200px;}
+.project-image { height: 500px;
+                }
